@@ -1,0 +1,11 @@
+PROGRAM BEGIN
+    DESCRIPTION "Simple calculation program"
+    AUTHOR "Plexi09"
+    DATE "2024-10-26"
+    
+    num x = 10
+    num y = 20
+    num result = x + y
+    display result
+    display "Hello, world!"
+PROGRAM END
